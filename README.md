@@ -1,0 +1,2 @@
+# bootsrap
+ini contoh
